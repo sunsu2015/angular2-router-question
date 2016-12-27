@@ -1,0 +1,83 @@
+.login{
+  background-image: url("../../assets/img/login.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  border:solid 2px #0091e7;
+  box-sizing: border-box;
+  padding-left: 50%;
+}
+.titleBar{
+  -webkit-user-select: none;
+  -webkit-app-region: drag;
+  width: 100%;
+  height: 155px;
+  position: absolute;
+  top:0px;
+  left: 0;
+}
+.topBar{
+  height: 36px;
+  width: 100%;
+  box-sizing: border-box;
+  position: absolute;
+  top:0px;
+  left: 0;
+  line-height: 36px;
+  text-align: right;
+}
+.topBar a{
+  margin-right: 11px;
+  -webkit-app-region: no-drag;
+}
+.topBar a:hover{
+  color:rgb(240, 80, 80)
+}
+.formContainer{
+  margin-left: -50%;
+  box-sizing: border-box;
+  margin-top: 72%;
+}
+.form{
+  width: 250px;
+  box-sizing: border-box;
+  border:solid 1px #d7d7d7;
+  margin-bottom: 16px;
+  height: 42px;
+  overflow: hidden;
+}
+.form label{
+  width: 38px;
+  height: 42px;
+  line-height: 42px;
+  font-size: 16px;
+  text-align: center;
+  display: inline-block;
+  padding: 0;
+  border-right:solid 1px #d7d7d7;
+}
+.form input{
+  display: inline-block;
+  height: 42px;
+  box-sizing: border-box;
+  margin-top: 0px;
+  width: 208px;
+  float: right;
+  border: none;
+  padding: 6px;
+  font-size: 14px;
+  line-height: 42px;
+  outline:none;
+}
+.formBtn{
+  background: #00a0e9;
+  height: 42px;
+  width: 250px;
+  color: #FFFFFF;
+  text-align: center;
+  box-sizing: border-box;
+  line-height: 42px;
+  font-size: 18px;
+  font-weight: bold;
+}
