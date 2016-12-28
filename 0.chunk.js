@@ -122,14 +122,14 @@ module.exports = ""
 /***/ 669:
 /***/ function(module, exports) {
 
-module.exports = "<p>\n  module2 works!\n</p>\n<app-module4></app-module4>\n"
+module.exports = "<p>\r\n  module2 works!\r\n</p>\r\n<app-module4></app-module4>\r\n"
 
 /***/ },
 
 /***/ 670:
 /***/ function(module, exports) {
 
-module.exports = "<p>\n  module4 works!\n</p>\n"
+module.exports = "<p>\r\n  module4 works!\r\n</p>\r\n"
 
 /***/ }
 
