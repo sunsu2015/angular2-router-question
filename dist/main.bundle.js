@@ -61033,7 +61033,7 @@ module.exports = ""
 /* 628 */
 /***/ function(module, exports) {
 
-module.exports = "<router-outlet></router-outlet>\n"
+module.exports = "<router-outlet></router-outlet>\r\n"
 
 /***/ },
 /* 629 */

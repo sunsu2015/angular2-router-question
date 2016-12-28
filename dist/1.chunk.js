@@ -142,21 +142,21 @@ module.exports = ""
 /***/ 663:
 /***/ function(module, exports) {
 
-module.exports = "div{\n  width:20%;\n}\n"
+module.exports = "div{\r\n  width:20%;\r\n}\r\n"
 
 /***/ },
 
 /***/ 666:
 /***/ function(module, exports) {
 
-module.exports = "<p>\n  Home的内容\n</p>\n<app-menu></app-menu>\n<router-outlet></router-outlet>\n"
+module.exports = "<p>\r\n  Home的内容\r\n</p>\r\n<app-menu></app-menu>\r\n<router-outlet></router-outlet>\r\n"
 
 /***/ },
 
 /***/ 668:
 /***/ function(module, exports) {
 
-module.exports = "<div>\n  Menu\n  <ul (click)=\"handleClick($event)\">\n    <li>m2</li>\n    <li>m3</li>\n  </ul>\n</div>\n"
+module.exports = "<div>\r\n  Menu\r\n  <ul (click)=\"handleClick($event)\">\r\n    <li>m2</li>\r\n    <li>m3</li>\r\n  </ul>\r\n</div>\r\n"
 
 /***/ }
 
